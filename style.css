@@ -395,6 +395,7 @@ footer img {
         background-color: var(--color-terciario);
         background-image: url(./figuras/Group.png);
         width: 100%;
+        padding: 40px 0;
         height: 88vh;
     }
     .fecha img{
